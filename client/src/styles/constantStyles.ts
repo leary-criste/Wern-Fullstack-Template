@@ -22,4 +22,4 @@ export const StyledHeaderText = styled.div`
 export const StyledSubText = styled.div`
   font-size: 15px;
   color: ${(props) => props.theme.subText};
-`
+`
