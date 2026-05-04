@@ -6,4 +6,4 @@ export const URL = dev
 
 export const serverURL = dev
   ? 'http://localhost:4000'
-  : 'https://wern-fullstack-template.herokuapp.com/'
+  : 'https://wern-fullstack-template.herokuapp.com/'
