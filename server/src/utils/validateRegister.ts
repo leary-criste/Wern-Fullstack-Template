@@ -38,4 +38,4 @@ export const validateRegister = (options: UserInput) => {
   }
 
   return null
-}
+}
