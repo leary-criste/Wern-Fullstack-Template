@@ -6,4 +6,4 @@ export const SwitchContainer = styled.div`
   right: 1%;
   margin: 10px 0px 0px 0px;
   z-index: 1;
-`
+`
