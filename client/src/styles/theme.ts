@@ -20,4 +20,4 @@ const theme = {
 export const commonColors = {
   red: '#C6493A',
 }
-export default theme
+export default theme
